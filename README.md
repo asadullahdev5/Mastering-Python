@@ -68,7 +68,7 @@ Mastering-Python/
 
 ## 🛣️ Learning Roadmap
 
-This repository follows my personal AI Engineering learning roadmap, starting with mastering Python fundamentals before moving into advanced AI technologies. :contentReference[oaicite:0]{index=0}
+This repository follows my personal AI Engineering learning roadmap, starting with mastering Python fundamentals before moving into advanced AI technologies
 
 Future repositories will cover:
 
