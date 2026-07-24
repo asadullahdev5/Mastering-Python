@@ -2,7 +2,7 @@
 # you need to write a program which 
 # replace this words with ###### by updating the same file
 
-bad_words = ["idiot","shit", "fuck", "fucking", "lucifer", "bastard"]
+bad_words = ["idiot","shit", "bad", "ugly", "hate", "very bad"]
 
 with open("D:\AI Engineering\Txt Files For Chapter 9\Paragraph.txt", 'r') as f:
     text = f.read()
